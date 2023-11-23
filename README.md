@@ -19,7 +19,9 @@ To run MovieList, follow these steps:
 [GoogleDrive](https://drive.google.com/file/d/1sgp-xz2s-0_hBNPIfj4uHdW__HWsG-4n/view?usp=sharing)
 
 ## Screenshoot
-![image](https://github.com/halim13/Movie-List/assets/11336853/0a36c365-12fd-480d-aee8-b47f0ddb9dfd)
-![image](https://github.com/halim13/Movie-List/assets/11336853/b44cbe10-be2e-403c-a9da-d4beaa2a1fc5)
+![image](https://github.com/halim13/Movie-List/assets/11336853/d833b318-e8ff-4a74-a701-1196e8afcf7d)
+
+![image](https://github.com/halim13/Movie-List/assets/11336853/bdcb20cd-6838-4712-95cf-77471bb6a0fa)
+
 
 
